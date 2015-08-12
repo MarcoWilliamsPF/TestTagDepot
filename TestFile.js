@@ -5,3 +5,7 @@
 function someFunc(str){
     alert('Hello World');
 }
+
+function someOtherFunc(str){
+    alert('Yo ' + str);
+}
